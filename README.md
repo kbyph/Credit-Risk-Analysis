@@ -76,7 +76,7 @@ The "High Risk" precision rate was only 9% with the recall at 92% giving this mo
 
 
 ## Summary
-According to the dataset, the Easy Ensemble AdaBoost Classifier yielded the best results with an highest scores and rates amongst all other models.
+According to the dataset, the Easy Ensemble AdaBoost Classifier yielded the best results with the highest scores and rates amongst all other models.
 
 **Ranking all models based on "High Risk" results:**
 - `EasyEnsembleClassifer`: 93% accuracy, 9% precision, 92% recall, and 16% F1 Score
