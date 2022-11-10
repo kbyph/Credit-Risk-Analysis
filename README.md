@@ -85,3 +85,4 @@ According to the dataset, the Easy Ensemble AdaBoost Classifier yielded the best
 - `SMOTEENN`: 64% accuracy, 1% precision, 72% recall and 2% F1 Score
 - `RandomOverSampler`: 64% accuracy, 1% precision, 66% recall and 2% F1 Score
 - `ClusterCentroids`: 54% accuracy, 1% precision, 69% recall and 1% F1 Score
+
